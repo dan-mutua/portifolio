@@ -1,0 +1,18 @@
+.first{
+    display: flex;
+}
+.dm{
+    border-radius: 100px;
+    padding-right: 20px;
+}
+
+.aboutme{
+    display: flex;
+    flex-direction: column;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
