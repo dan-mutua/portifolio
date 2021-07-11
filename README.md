@@ -16,6 +16,9 @@ This was week one independent project, where by I created my own portifolio with
 ## Setup/Installation Requirements
 
 * Live link to view the project <a href="https://dan-mutua.github.io/portifolio/">PORTIFOLIO</a>
+## Some Screenshots
+<img src="./assets/Screenshot 1.png" alt="screenshot" />
+<img src="./assets/Screenshot from 2021-07-11 19-00-20.png" alt="screenshot" />
 
 
 ## Known Bugs
