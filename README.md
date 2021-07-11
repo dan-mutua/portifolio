@@ -1,8 +1,8 @@
-# Dobi popote
-#### It is a six page website for requesting laundry services online
-#### Created By Daniel Mutua, Allan Limo, Kinoti Gitonga and Francis Nguithu on 23-06-2021
+# portifolio
+#### It is a landing page for Daniel Mutua porifolio
+#### Created By Daniel Mutua on 11-07-2021
 ## Description
-This was week four group project, whereby we saw a propblem and created a solution website to help customers access laundry services easily. You can understand more by visiting the website.
+This was week one independent project, where by I created my own portifolio with some of the projects that I have done so far. You can understand more by visiting the website.
 ## Setup/Installation Requirements
 * Git
 * Web-browser or your choice
@@ -11,17 +11,12 @@ This was week four group project, whereby we saw a propblem and created a soluti
  The following languages have been used on this project:
  * HTML
  * CSS
- * JAVASCRIPT
+ * BOOTSTRAP
 
 ## Setup/Installation Requirements
 
-* Live link to view the project <a href="https://wilsonkinyua.github.io/anitas-kitchen/">View Anitas Kitchen</a>
-## Some Screenshots
-<img src="./img/screenshots/1.png" alt="screenshot" />
-<img src="./img/screenshots/2.png" alt="screenshot" />
-<img src="./img/screenshots/3.png" alt="screenshot" />
-<img src="./img/screenshots/4.png" alt="screenshot" />
-<img src="./img/screenshots/5.png" alt="screenshot" />
+* Live link to view the project <a href="https://dan-mutua.github.io/portifolio/">PORTIFOLIO</a>
+
 
 ## Known Bugs
  So far so good there are no bugs related to this project 😎
